@@ -4,6 +4,8 @@ rev=$(git rev-parse --short HEAD)
 
 cd stage/_book
 
+ls
+
 git init
 git config user.name "Travis CI"
 git config user.email "pedro.azevedo@concretesolutions.com.br"
