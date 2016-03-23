@@ -2,9 +2,7 @@
 
 rev=$(git rev-parse --short HEAD)
 
-cd stage/_book
-
-ls
+cd _book
 
 git init
 git config user.name "Travis CI"
