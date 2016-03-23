@@ -1,8 +1,17 @@
-#!/bin/bash -x
+#!/bin/bash
+#####################################################################
+# Program: deploy.sh
+# Description: Deploy DevOps Training Documentation 
+#
+# Author: Pedro Cesar Azevedo <pedro.azevedo@concretesolutions.com.br>
+#####################################################################
 
-rev=$(git rev-parse --short HEAD)
+## Define the working directory and a timestamp
+WORK_DIR="_book/"
+TIMESTAMP="$(date +'%Y%m%d_%H-%M-%S')"
+REVISION=$(git rev-parse --short HEAD)
 
-cd _book
+cd $WORK_DIR
 
 git init
 git config user.name "Travis CI"
@@ -17,6 +26,6 @@ echo "www.concretesolutions.com.br/cs-devops-training" > CNAME
 touch .
 
 git add -A .
-git commit -m "Documentation updated at ${rev}"
+git commit -m "Documentation updated at ${TIMESTAMP} - ${REVISION}"
 git push -q upstream HEAD:gh-pages
 
