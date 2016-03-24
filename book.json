@@ -1,6 +1,6 @@
 {
 	"gitbook": "2.4.3",
-	"plugins": ["prism", "-highlight", "github"],
+	"plugins": ["prism", "-highlight", "github", "youtube"],
 	"structure": {
 		"summary": "docs/SUMMARY.md"
 
@@ -11,7 +11,7 @@
 	},
 	"pluginsConfig": {
 		"github": {
-			"url": "https://github.com/gpbl/react-day-picker/"
+			"url": "https://github.com/concretesolutions/cs-devops-training/"
 
 		}
 	}

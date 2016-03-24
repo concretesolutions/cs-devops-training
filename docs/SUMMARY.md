@@ -1,3 +1,11 @@
 # Table of content 
-* [Getting Started](docs/getting-started.md)
-* [API Reference](docs/api-reference.md)
+* [DevOps Basics (Jr)](docs/01_basics/00_README.md)
+	* [Scrum and Agile Principles](docs/01_basics/01_scrum_and_agile.md)
+	* [DevOps Principles and Terminologies](docs/01_basics/02_devops_principles.md)
+	* [Cloud Computing Basics](docs/01_basics/03_cloud_basics.md)
+	* [Scripting](docs/01_basics/04_scripting.md)
+	* [Version Control](docs/01_basics/05_version_control.md)
+* [DevOps Intermediate (Pl)](docs/02_intermediate/00_README.md)
+	* [Anything](docs/02_intermediate/01_anything.md)
+* [DevOps Avanced (Sr)](docs/03_advanced/00_README.md)
+	* [Anyghing](docs/03_advanced/01_anything.md)

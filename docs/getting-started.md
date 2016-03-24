@@ -1,3 +1,0 @@
-# getting-started 
-#O RAFA É BUNITAOOOO...
-#
