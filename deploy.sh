@@ -21,7 +21,7 @@ git remote add upstream "https://${GH_TOKEN}@${GH_REF}"
 git fetch upstream
 git reset upstream/gh-pages
 
-echo "www.concretesolutions.com.br/cs-devops-training" > CNAME
+echo "www.concretesolutions.com.br" > CNAME
 
 touch .
 
