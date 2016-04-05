@@ -12,3 +12,4 @@ Esse treinamento foi pensado para ser trabalhado em três módulos distintos, co
 Espero que você aproveite o curso, que aprenda bastante, se houverem dúvidas, sugestões, sintam-se a vontade de abrir uma [ISSUE](https://github.com/concretesolutions/cs-devops-training/issues) no repositório para que possamos criar um canal de comunicação.
 
 Grande abraço da Equipe de DevOps da Concrete Solutions.
+
