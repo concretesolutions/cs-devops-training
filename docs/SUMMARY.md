@@ -27,5 +27,5 @@
 	* [TCC](docs/01_basics/08_tcc.md)
 * [DevOps Intermediate](docs/02_intermediate/00_README.md)
 	* [Anything](docs/02_intermediate/01_anything.md)
-* [DevOps Avanced](docs/03_advanced/00_README.md)
+* [DevOps Advanced](docs/03_advanced/00_README.md)
 	* [Anyghing](docs/03_advanced/01_anything.md)
