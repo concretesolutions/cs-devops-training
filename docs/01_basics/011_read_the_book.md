@@ -9,7 +9,8 @@ Claro que o Scrum não é um modelo perfeito e a aplicação de um modelo deve s
 [Jeff Sutherland](https://www.scrumalliance.org/community/profile/jsutherland) foi uma das pessoas envolvidas no desenvolvimento do modelo Scrum e sabe explicar melhor do que ninguém as diferenças entre o Scrum e outros modelos, por conta disto o seu livro é uma leitura super indicada para entender dos fluxos e boas práticas. Aqui na Concrete Solutions nós temos esse livro para te emprestar, mas caso você queira obter a sua cópia você pode buscar pelo mesmo em algumas [livrarias](http://www.saraiva.com.br/scrum-a-arte-de-faze-o-dobro-de-trabalho-na-metade-do-tempo-8196405.html).
 
 
-### Atividades:
+
+### Atividade:
 Obviamente não será pedido que você leia todo o livro na próxima hora, nem mesmo que você leia tudo hoje ainda para poder dar continuidade ao seu treinamento. Essa atividade pode ser executada em forma de **épico**, onde os capítulos podem ser lidos ao longo das demais atividades do treinamento até chegar o ponto onde todo o conteúdo do livro foi coberto. Mas lembre de **documentar** os pontos importantes e as lições aprendidas para que possa utilizar isso mais tarde no momento de gerar sua própria documentação.
 
 Quanto a um direcionamento na leitura, realmente acreditamos ser importante a leitura da obra como um todo para entender a lógica, mas alguns capítulos aqui são extremamente importantes para entender as necessidades que impactaram na elaboração de um novo modelo, além de mostrar todo o processo e como isso está conectado a um estudo comportamental. Então alguns capítulos aqui são indispensáveis:
