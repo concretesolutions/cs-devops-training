@@ -24,8 +24,3 @@
 	* [Documentation](docs/01_basics/07_documentation.md)
 		* [Markdown](docs/01_basics/071_markdown.md)
 		* [Tools to Generate Documentation](docs/01_basics/072_doc_tools.md)
-	* [TCC](docs/01_basics/08_tcc.md)
-* [DevOps Intermediate](docs/02_intermediate/00_README.md)
-	* [Anything](docs/02_intermediate/01_anything.md)
-* [DevOps Advanced](docs/03_advanced/00_README.md)
-	* [Anyghing](docs/03_advanced/01_anything.md)
